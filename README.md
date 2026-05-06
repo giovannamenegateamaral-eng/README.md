@@ -1,2 +1,8 @@
 # README.md
-Sobre mim#Giovanna
+
+
+#Sobre mim **Giovanna**
+ ##aluna 
+ ### mario quintana 
+
+ - **olá eu sou @giovannamenegateamaral-eng**
